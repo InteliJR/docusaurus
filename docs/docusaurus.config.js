@@ -8,26 +8,30 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "QuickStart Inteli Júnior",
-  tagline: "Tudo que você precisa para começar!",
-  favicon: "img/favicon.ico",
+  title: "Inteli Júnior",
+  tagline: "Dinosaurs are cool",
+  favicon: "img/inteli.svg",
 
   // Set the production url of your site here
-  url: "https://InteliJR.docussaurus",
+  url: "https://your-docusaurus-site.example.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/docusaurus/",
 
   // GitHub pages deployment config.
-  organizationName: "Inteli Júnior",
-  projectName: "QuickStart",
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: "Inteli Júnior", // Usually your GitHub org/user name.
+  projectName: "docusaurus", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "pt-BR",
-    locales: ["pt"],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
@@ -38,11 +42,12 @@ const config = {
         docs: {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          routeBasePath: "/",
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-        },
+        blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -54,19 +59,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/inteli.svg",
       navbar: {
         title: "Inteli Júnior",
         logo: {
-          alt: "Logo inteli Júnior",
-          src: "img/logo.svg",
+          alt: "My Site Logo",
+          src: "img/inteli.svg",
         },
         items: [
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "QuickStart",
+            label: "Introdução",
           },
           {
             href: "https://github.com/InteliJR/docusaurus",
@@ -74,47 +79,6 @@ const config = {
             position: "right",
           },
         ],
-      },
-      footer: {
-        style: "dark",
-        links: [
-          // {
-          //   title: "Docs",
-          //   items: [
-          //     {
-          //       label: "QuickStart",
-          //       to: "/docs/intro",
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: "Community",
-          //   items: [
-          //     {
-          //       label: "Stack Overflow",
-          //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
-          //     },
-          //     {
-          //       label: "Discord",
-          //       href: "https://discordapp.com/invite/docusaurus",
-          //     },
-          //     {
-          //       label: "Twitter",
-          //       href: "https://twitter.com/docusaurus",
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: "More",
-          //   items: [
-          //     {
-          //       label: "GitHub",
-          //       href: "https://github.com/facebook/docusaurus",
-          //     },
-          //   ],
-          // },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Inteli Júnior QuickStart, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
