@@ -41,10 +41,6 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           routeBasePath: "/",
         },
         blog: false,
@@ -63,7 +59,7 @@ const config = {
       navbar: {
         title: "Inteli Júnior",
         logo: {
-          alt: "My Site Logo",
+          alt: "Logo Inteli Júnior",
           src: "img/inteli.svg",
         },
         items: [
@@ -71,7 +67,37 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Introdução",
+            label: "Tudo",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "githubSidebar",
+            position: "left",
+            label: "Github",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "figmaSidebar",
+            position: "left",
+            label: "Figma",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "frontendSidebar",
+            position: "left",
+            label: "Frontend",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "backendSidebar",
+            position: "left",
+            label: "Backend",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "dataSidebar",
+            position: "left",
+            label: "Data",
           },
           {
             href: "https://github.com/InteliJR/docusaurus",
