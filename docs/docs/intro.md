@@ -1,6 +1,7 @@
 ---
 title: Introdução
 sidebar_position: 1
+slug: /
 ---
 
 # Introdução ao material

@@ -1,4 +1,4 @@
 ---
-title: Github
+title: Frontend
 sidebar_position: 1
 ---
