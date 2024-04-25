@@ -67,7 +67,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tudo",
+            label: "Introdução",
           },
           {
             type: "docSidebar",
