@@ -13,15 +13,15 @@ const config = {
   favicon: "img/inteli.svg",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://intelijunior.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/docusaurus/",
+  baseUrl: "/material/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "Inteli Júnior", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  projectName: "material", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -100,7 +100,7 @@ const config = {
             label: "Data",
           },
           {
-            href: "https://github.com/InteliJR/docusaurus",
+            href: "https://github.com/InteliJR/material",
             label: "GitHub",
             position: "right",
           },
