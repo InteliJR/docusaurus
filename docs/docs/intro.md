@@ -6,21 +6,39 @@ slug: /
 
 # Introdução ao material
 
+<img src="img/logo-ej-p.png" alt="Logo Inteli Jr." width="500" style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto' }}/>
+
+:::info[IMPORTANTE]
+- Antes de mais nada, gostaria de te parabenizar por ter passado na **Inteli Jr.**, sabemos que o processo foi longo e exigiu bastante dedicação da sua parte;
+- Agora que passou dessa etapa, **respire fundo**. Prometo que você terá todo apoio necessário para se dar bem por aqui **;)**
+- Tá na hora de pegar algo para comer, vou te mostrar tudo que você precisa para ser **'cool tech, smart business'**.
+:::
+
 ## 1. Apresentação
 
-```markdown
-* Primeiramente, gostaria de parabenizar você por ter passado no INTELI, o processo é difícil e 
-pode ser um pouco assustador no começo;
-* Em segundo lugar, respire um pouco, tenha calma que eu prometo que vamos te dar todo o suporte 
-necessário ;)
-* Por fim, pegue algo para comer, vamos te ensinar a ser 'cool tech, smart business'.
-```
 
-Olá, novato! Espero que esteja feliz por ter ingressado na maior empresa júnior de tecnologia do país(em alguns anos). Mais uma vez, 
-parabéns por ter passado em uma faculdade desse porte, sei que o processo de vestibular é cansativo e você ralou muito para estar aqui.
+Olá, novato! Seja muito **bem-vindo** à maior empresa júnior de tecnologia do país — não duvide, em alguns anos chegaremos lá!
 
-Dito isso, deixando sua vida universitária um pouco de lado para falar sobre sua carreira profissional. Nesse primeiro momento, vamos elucidar para que serve uma empresa jr: O objeivo de uma empresa júnior é aplicar o conhecimento teórico aprendido na faculdade em um projeto prático. 
+Dito isso, vamos mergulhar um pouco na essência das empresas júnior. Aqui, o grande lance é **transformar o conhecimento teórico da faculdade em algo palpável, através de projetos práticos**.
 
-'AAAAA, mas eu já aplico no INTELI por ser PBL, qual o sentido de estar aqui?'. Muito bem, novato! Questionamentos são sempre bem vindos, a resposta para essa pergunta é: queremos trabalhar em projetos reais e causar impactos reais. Estamos cansados de saber que a maioria dos projetos do INTELI é uma POC(proof of concept), ou seja, os parceiros não precisam de um projeto real, estruturado e que vai impactá-los diretamente, precisam de inovação e uma prova que o projeto pode sair do papel. Dessa forma, surge o INTELI JR, uma empresa que trabalha em projetos reais, gerando impactos reais em seus parceiros. 
+> "Ah, mas já faço isso no Inteli, por ser PBL (Project Based Learning), então qual é a vantagem de estar aqui?". 
 
-Nesse sentido, acho que vale dizer para não se assustar, sabemos que você provavelmente pode não ter todo o conhecimento necessário para desenvolver o calibre de projeto que estamos lidando na empresa júnior e está tudo bem, para isso existe esse material. O principal objetivo deste é ensinar vocês a aprenderem tecnologia, ou seja, como pesquisar, onde procurar, quais cursos fazer e os termos mais usados por nós, devs. Bem vindo à empresa júnior, espero que gostem do material e qualquer sugestão de melhora, podem abrir uma Issue ou um Pull Request com algum diretor para validação!
+Excelente pergunta! **É sempre bom questionar**. A diferença é que queremos ir além das provas de conceito, famosas POCs, que são comuns no Inteli. Nossos parceiros não estão apenas atrás de inovação teórica; eles querem projetos reais que gerem **impactos significativos** em suas operações. É aí que entra o **Inteli Jr**: trabalhamos em projetos que saem do papel e realmente fazem a diferença. (Um segredo: por aqui as soluções desenvolvidas serão **realmente** impletentadas🤫)
+
+Nesse sentido, vale dizer para **não se assustar**, sabemos que você provavelmente ainda não tem todo o know-how necessário. **É totalmente normal!** Esse material foi criado justamente para isso: para ajudá-lo a se desenvolver tecnicamente. Aqui, você vai **aprender** como pesquisar, onde procurar, quais são os melhores cursos, e entender os jargões que nós, devs, usamos no dia a dia.
+
+Bem-vindo à nossa empresa júnior! Esperamos que você curta o material e, claro, sinta-se à vontade para sugerir melhorias. Se tiver alguma ideia, é só abrir uma Issue ou enviar um Pull Request para algum dos diretores para validação.
+
+## 2. O que você encontra por aqui
+### 2.1 Git e Github
+Breve descrição do que se encontra nessa seção
+### 2.2 Prototipação (Figma)
+Breve descrição do que se encontra nessa seção
+### 2.3 Frontend
+Breve descrição do que se encontra nessa seção
+### 2.4 Backend
+Breve descrição do que se encontra nessa seção
+### 2.5 Dados
+Breve descrição do que se encontra nessa seção
+
+
