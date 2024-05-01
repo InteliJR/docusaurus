@@ -57,16 +57,29 @@ Você pode usar o GitHub diretamente no seu navegador web, o que permite gerenci
 
 ## Por que o Git e GitHub são importantes?
 
-O Git e o GitHub são ferramentas essenciais para qualquer desenvolvedor de software por várias razões:
+Acredito que apenas com essa introdução básica já se tornou perceptível a importância dessas duas ferramentas, mas se ainda não notou, agora ficará fácil perceber. 
 
-- **Controle de Versão:** Permitem rastrear todas as alterações feitas no código-fonte ao longo do tempo, facilitando a colaboração e a manutenção do projeto.
-- **Colaboração Eficiente:** Permitem que várias pessoas trabalhem juntas em um projeto, compartilhando e revisando o código de forma transparente e organizada.
-- **Portfólio Profissional:** Ao contribuir para projetos de código aberto no GitHub, você pode construir um portfólio impressionante e demonstrar suas habilidades para potenciais empregadores.
+O Git e o GitHub são ferramentas indispensáveis para qualquer desenvolvedor, e aqui estão algumas razões pelas quais:
 
-Com o Git e o GitHub, você terá as ferramentas necessárias para se tornar um desenvolvedor mais eficiente, colaborativo e profissional.
+- **Controle de Versão**: Eles oferecem uma maneira poderosa de rastrear todas as alterações feitas no código-fonte ao longo do tempo, o que é essencial para a colaboração eficaz e a manutenção organizada do projeto.
+- **Colaboração Eficiente**: Facilitam o trabalho conjunto, permitindo que várias pessoas contribuam, compartilhem e revisem o código de forma transparente e coordenada.
+- **Portfólio Profissional**: Contribuir para projetos de código aberto no GitHub não apenas enriquece sua experiência, mas também ajuda a construir um portfólio robusto que pode chamar a atenção de potenciais empregadores.
+- **Segurança do Código**: Recursos avançados de segurança, como a autenticação de dois fatores e a revisão de código, para proteger o código contra acessos não autorizados e garantir a integridade do projeto.
 
-## Para saber mais
+Dominar o Git e o GitHub coloca você em uma posição privilegiada para ser um desenvolvedor mais produtivo, colaborativo e destacado no mercado profissional.
 
-Se ainda estiver com alguma dúvida ou precisar de outra forma de consulta, vou deixar aqui uma playlist completa com praticamente tudo que vocês vão precisar sobre Git e GitHub, ela é gratuita e recomendada por professores do próprio Inteli! Ainda assim, fiquem livres para explorar esta documentação.
+---
+
+## Para saber mais 
+
+Agora, está claro, não é? Com todas essas informações em mãos, podemos nos aprofundar ainda mais nas possibilidades que o Git e o GitHub oferecem. Ainda nessa pasta, vamos explorar algumas funções adicionais e descobrir como essas tecnologias podem revolucionar ainda mais nosso trabalho.
+
+:::danger[MATERIAL INDICADO]
+
+Se ainda estiver com alguma dúvida ou precisar de outra forma de consulta, vou deixar aqui uma playlist completa com praticamente TUDO que vocês vão precisar sobre Git e GitHub, ela é gratuita e recomendada por professores do próprio Inteli!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xEKo29OWILE?si=KLy_6IvK1U6Cd-Cj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style={{display: 'block', marginLeft: 'auto', maxHeight: '80vh', marginRight: 'auto', marginBottom: '16px'}} ></iframe>
+
+
+:::
+
