@@ -1,5 +1,5 @@
 ---
-title: Introdução ao Github
+title: Introdução á Seção
 sidebar_position: 1
 ---
 
