@@ -10,9 +10,17 @@ Aqui, você aprenderá o que são repositórios, como configurá-los e gerenciá
 
 ## Introdução aos repositórios
 
-Antes de começar vamos passar por termos importantes
-:::info[IMPORTANTE]
+Antes de começar vamos passar por termos essenciais nesse contexto:
+:::info[TERMINOLOGIA] 
+**Branch**: Versão paralela do código que está contida dentro do repositório, mas não afeta a ramificação primária ou principal;
 
+**Clone**: Baixar uma cópia completa dos dados de um repositório do GitHub, incluindo todas as versões de cada arquivo e pasta;
+
+**Fork**: Um novo repositório que compartilha configurações de código e visibilidade com o repositório "upstream" original;
+
+**Remoto**: Repositório armazenado no GitHub, não no seu computador;
+
+**Pull Request**: Solicitação para mesclar as alterações de um branch em outro.
 :::
 
 ### O que são repositórios?
